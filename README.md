@@ -1,4 +1,4 @@
-# Stroke-Prediction-App--ML
+# Stroke-Prediction-App-ML
 
 ML
 <br>
